@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1572292408 source:c:\users\alanp\onedrive\escritorio\técnico superior en programación - utn pacheco\2º cuatrimestre\laboratorio ii\proyectofinal_electrowave\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Menus.h"
+	"Usuario.h"
+	"Consumo.h"
+	"Facturas.h"
+
+1571842770 c:\users\alanp\onedrive\escritorio\técnico superior en programación - utn pacheco\2º cuatrimestre\laboratorio ii\proyectofinal_electrowave\menus.h
+
+1572293375 c:\users\alanp\onedrive\escritorio\técnico superior en programación - utn pacheco\2º cuatrimestre\laboratorio ii\proyectofinal_electrowave\usuario.h
+
+1571840329 c:\users\alanp\onedrive\escritorio\técnico superior en programación - utn pacheco\2º cuatrimestre\laboratorio ii\proyectofinal_electrowave\consumo.h
+
+1571610677 c:\users\alanp\onedrive\escritorio\técnico superior en programación - utn pacheco\2º cuatrimestre\laboratorio ii\proyectofinal_electrowave\facturas.h
+
